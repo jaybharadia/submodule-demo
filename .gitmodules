@@ -1,0 +1,3 @@
+[submodule "sample-code-github-submodule"]
+	path = sample-code-github-submodule
+	url = ./sample-code-github-submodule/
